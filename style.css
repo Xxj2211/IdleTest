@@ -9,5 +9,6 @@ header {
 }
 
 #header_main_btn_link {
-    
+    text-decoration: none;
+    color: #EAFAF1;
 }
