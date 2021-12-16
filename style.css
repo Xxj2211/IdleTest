@@ -5,10 +5,17 @@ body {
 
 header {
     background-color: #004a70;
+    height: 60px;
     display: flex;
+}
+
+#header_main_btn {
+    padding-top: 20px;
+    padding-left: 20px;
 }
 
 #header_main_btn_link {
     text-decoration: none;
     color: #EAFAF1;
+    font-family: 'Poppins', sans-serif;
 }
